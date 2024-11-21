@@ -1,2 +1,1 @@
-subset_df2.to_csv('gdrive/My Drive/ColabNotebooks/subset_data.csv', index=False)
-subset_df1.to_csv('gdrive/My Drive/ColabNotebooks/subset_data.csv', index=False)
+
