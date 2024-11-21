@@ -6,7 +6,7 @@ This data repository on physical inactivity and access to exercise opportunities
 ## Getting Started 
 Users can get started with the repository by opening the Data folder. This includes the all of the County Health Data and the two subsets from Alabama and Arkansas. After looking at this, trends can be analyzed and further usage of the data can be done. 
 ## Getting Help
-Users can get help with this repository by looking through the getting started section, or looking at the 
+Users can get help with this repository by looking through the getting started section, or looking at the SUBMIT_EnglProject.ipynb file. This file provides step-by-step instructions on how the data was made and what it means. This is located at the top of the page under the Data folder. 
 ### Acknowledgments
-This repository was created for Dr. Gotzler's English 105-075 class. It is a project for our unit on writing in the Natural Sciences. All data is publicly accessible.  
+This repository was created for Dr. Gotzler's English 105-075 class. It is a project for our unit on writing in the Natural Sciences. I maintain and contribute to this repository, but all data is publicly accesible.   
 
